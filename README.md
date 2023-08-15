@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**raavenkkj/raavenkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Raven! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Olá, meu nome é Edu, mas pode me chamar de Raven. Sou um programador com pouco mais de 2 anos de experiência no mercado! Faço alguns cheats para a plataforma Roblox de vez em quando.
+
+
+## 🏓 Tecnologias
+
+ - [NodeJS](https://nodejs.org/en)
+ - [LuaU](https://www.lua.org/)
+ - [Python](https://www.python.org)
+
+
+## 🔗 Links
+[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F563184210387402803
+)](https://discord.com/users/563184210387402803)
+
+
